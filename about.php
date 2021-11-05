@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<?php include 'nav.php' ?>
+<?php include 'nav.php'?>
 
 <div class="container">
   <h2>About page</h2>
